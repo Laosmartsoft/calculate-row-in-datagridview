@@ -1,0 +1,9 @@
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\bin\x86\Debug\MyDatagridview.exe
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\bin\x86\Debug\MyDatagridview.pdb
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\bin\x86\Debug\MyDatagridview.xml
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\obj\x86\Debug\MyDatagridview.Form1.resources
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\obj\x86\Debug\MyDatagridview.Resources.resources
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\obj\x86\Debug\MyDatagridview.vbproj.GenerateResource.Cache
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\obj\x86\Debug\MyDatagridview.exe
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\obj\x86\Debug\MyDatagridview.xml
+c:\users\puilovely\documents\visual studio 2012\Projects\MyDatagridview\MyDatagridview\obj\x86\Debug\MyDatagridview.pdb
